@@ -1,1 +1,1 @@
-# cpp-assignment-1
+For this task I saw that the use of an int variable was wanted. I thought the best way to incorporate this would be to create a menu where users can select which piece of information they wish to see. In this program, my information is stored in variables that are then printed to the console using cout in an if statement that only prints one variable depending on which number was entered by the user with the cin on line 23
